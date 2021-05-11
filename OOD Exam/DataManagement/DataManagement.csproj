@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OOD Exam\OOD Exam.csproj">
+      <Project>{486e900c-7ca8-43d9-8028-831f5bdbb441}</Project>
+      <Name>OOD Exam</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

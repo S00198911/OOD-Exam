@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,18 +10,20 @@ namespace OOD_Exam
     public class Game
     {
         public string Name { get; set; }
-        public int Metacritic_Score { get; set; }
+        public string Platform { get; set; }
+        public int CriticScore { get; set; }
         public decimal Price { get; set; }
         public string Description { get; set; }    
-        public string Game_Image { get; set; }
+        public string GameImage { get; set; }
 
-        public Game(string name, int metacritic_score, decimal price, string description, string game_Image = "")
+        public Game(string name, string platform, int metacritic_score, decimal price, string game_Image, string description = "")
         {
             Name = name;
-            Metacritic_Score = metacritic_score;
-            Price = price;
+            Platform = platform;
+            CriticScore = metacritic_score;
+            Price = price;           
+            GameImage = game_Image;
             Description = description;
-            Game_Image = game_Image;
         }
 
         public override string ToString()
@@ -31,6 +34,13 @@ namespace OOD_Exam
         public void DecreasePrice(decimal descrease)
         {
             Price -= descrease;
-        }
+        }      
     }
+
+    public class GameData : DbContext
+    {
+        public GameData() : base("MyGameData") { }
+    }
+
+
 }
