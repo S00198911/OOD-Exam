@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOD_Exam
 {
-    class Game
+    public class Game
     {
         public string Name { get; set; }
         public int Metacritic_Score { get; set; }

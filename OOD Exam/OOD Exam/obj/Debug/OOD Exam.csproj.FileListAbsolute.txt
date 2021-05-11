@@ -1,0 +1,15 @@
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\OOD Exam\bin\Debug\OOD Exam.exe.config
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\OOD Exam\bin\Debug\OOD Exam.exe
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\OOD Exam\bin\Debug\OOD Exam.pdb
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\OOD Exam\obj\Debug\OOD Exam.csprojAssemblyReference.cache
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\OOD Exam\obj\Debug\MainWindow.g.cs
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\OOD Exam\obj\Debug\App.g.cs
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\OOD Exam\obj\Debug\OOD Exam_MarkupCompile.cache
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\OOD Exam\obj\Debug\OOD Exam_MarkupCompile.lref
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\OOD Exam\obj\Debug\MainWindow.baml
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\OOD Exam\obj\Debug\OOD Exam.g.resources
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\OOD Exam\obj\Debug\OOD_Exam.Properties.Resources.resources
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\OOD Exam\obj\Debug\OOD Exam.csproj.GenerateResource.cache
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\OOD Exam\obj\Debug\OOD Exam.csproj.CoreCompileInputs.cache
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\OOD Exam\obj\Debug\OOD Exam.exe
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\OOD Exam\obj\Debug\OOD Exam.pdb

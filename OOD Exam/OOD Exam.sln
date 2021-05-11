@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOD Exam", "OOD Exam\OOD Exam.csproj", "{486E900C-7CA8-43D9-8028-831F5BDBB441}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataManagement", "DataManagement\DataManagement.csproj", "{9071F293-C5FB-4A66-B1FC-D0CD40E56525}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{B7FAD1D8-BBDD-493D-830C-C0F0B79229E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{486E900C-7CA8-43D9-8028-831F5BDBB441}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{486E900C-7CA8-43D9-8028-831F5BDBB441}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{486E900C-7CA8-43D9-8028-831F5BDBB441}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9071F293-C5FB-4A66-B1FC-D0CD40E56525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9071F293-C5FB-4A66-B1FC-D0CD40E56525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9071F293-C5FB-4A66-B1FC-D0CD40E56525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9071F293-C5FB-4A66-B1FC-D0CD40E56525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7FAD1D8-BBDD-493D-830C-C0F0B79229E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7FAD1D8-BBDD-493D-830C-C0F0B79229E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7FAD1D8-BBDD-493D-830C-C0F0B79229E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7FAD1D8-BBDD-493D-830C-C0F0B79229E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

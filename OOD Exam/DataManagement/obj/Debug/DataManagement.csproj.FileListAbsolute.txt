@@ -1,0 +1,7 @@
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\DataManagement\bin\Debug\DataManagement.exe.config
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\DataManagement\bin\Debug\DataManagement.exe
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\DataManagement\bin\Debug\DataManagement.pdb
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\DataManagement\obj\Debug\DataManagement.csprojAssemblyReference.cache
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\DataManagement\obj\Debug\DataManagement.csproj.CoreCompileInputs.cache
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\DataManagement\obj\Debug\DataManagement.exe
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\DataManagement\obj\Debug\DataManagement.pdb
