@@ -10,7 +10,7 @@
     <Window.Resources>
         <DataTemplate x:Key="listboxTemplate">
             <StackPanel>
-                <TextBlock Text="{Binding Name}/100"></TextBlock>
+                <TextBlock Text="{Binding Name}"></TextBlock>
                 <TextBlock Text="{Binding CriticScore}"></TextBlock>
             </StackPanel>
         </DataTemplate>
