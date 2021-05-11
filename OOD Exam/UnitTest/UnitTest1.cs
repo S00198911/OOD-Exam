@@ -11,7 +11,7 @@ namespace UnitTest
         public void TestMethodPriceDecrease()
         {
             //ARRANGE
-            Game g1 = new Game("", 0, 50m, "", "");
+            Game g1 = new Game("", "", 0, 50m, "", "");
             decimal finalPrice = 40m;
 
             //ACT

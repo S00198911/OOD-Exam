@@ -9,6 +9,7 @@ namespace OOD_Exam
 {
     public class Game
     {
+        public int id { get; set; }
         public string Name { get; set; }
         public string Platform { get; set; }
         public int CriticScore { get; set; }
@@ -16,8 +17,14 @@ namespace OOD_Exam
         public string Description { get; set; }    
         public string GameImage { get; set; }
 
-        public Game(string name, string platform, int metacritic_score, decimal price, string game_Image, string description = "")
+        public Game()
         {
+
+        }
+
+        public Game(int ID, string name, string platform, int metacritic_score, decimal price, string game_Image, string description = "")
+        {
+            id = ID;
             Name = name;
             Platform = platform;
             CriticScore = metacritic_score;
@@ -40,6 +47,7 @@ namespace OOD_Exam
     public class GameData : DbContext
     {
         public GameData() : base("MyGameData") { }
+        public DbSet<Game> Games { get; set; }
     }
 
 

@@ -5,3 +5,11 @@ C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\DataManagement\obj\Debug\DataMa
 C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\DataManagement\obj\Debug\DataManagement.csproj.CoreCompileInputs.cache
 C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\DataManagement\obj\Debug\DataManagement.exe
 C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\DataManagement\obj\Debug\DataManagement.pdb
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\DataManagement\bin\Debug\EntityFramework.dll
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\DataManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\DataManagement\bin\Debug\OOD Exam.exe
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\DataManagement\bin\Debug\OOD Exam.pdb
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\DataManagement\bin\Debug\OOD Exam.exe.config
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\DataManagement\bin\Debug\EntityFramework.xml
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\DataManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\oliveroreilly\Desktop\OOD Exam\OOD Exam\DataManagement\obj\Debug\DataManagement.csproj.CopyComplete

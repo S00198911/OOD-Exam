@@ -1,12 +1,25 @@
-﻿<Window x:Class="OOD_Exam.MainWindow"
+﻿<Window x:Name="Window" x:Class="OOD_Exam.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:OOD_Exam"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
+
+    <Window.Resources>
+        <DataTemplate x:Key="listboxTemplate">
+            <StackPanel>
+                <TextBlock Text="{Binding Name}/100"></TextBlock>
+                <TextBlock Text="{Binding CriticScore}"></TextBlock>
+            </StackPanel>
+        </DataTemplate>
+    </Window.Resources>
+    
     <Grid>
-        
+        <ListBox ItemTemplate="{StaticResource listboxTemplate}" x:Name="GameListBox" HorizontalAlignment="Left" Height="278" Margin="69,66,0,0" VerticalAlignment="Top" Width="284" SelectionChanged="GameListBox_SelectionChanged"/>
+        <TextBlock x:Name="GameTextBlock" HorizontalAlignment="Left" Margin="417,66,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="42" Width="244" FontSize="16"/>
+        <Image x:Name="GameImage" HorizontalAlignment="Left" Height="195" Margin="417,149,0,0" VerticalAlignment="Top" Width="244"/>
+
     </Grid>
 </Window>
