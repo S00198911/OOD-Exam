@@ -18,6 +18,13 @@ namespace OOD_Exam
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
+    /// 
+
+    // ****************************************************************************************************
+    // Christian Krivickis
+    // S00198911
+    // Github: https://github.com/ChristianKrivickis/OOD-Exam
+    // ****************************************************************************************************
     public partial class MainWindow : Window
     {
         public MainWindow()
