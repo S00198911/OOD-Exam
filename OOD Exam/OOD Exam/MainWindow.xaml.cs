@@ -19,7 +19,6 @@ namespace OOD_Exam
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    /// 
 
     // ****************************************************************************************************
     // Christian Krivickis
@@ -28,7 +27,8 @@ namespace OOD_Exam
     // ****************************************************************************************************
     public partial class MainWindow : Window
     {
-        List<Game> AllGames;
+        List<Game> AllGames = new List<Game>();
+        //List<Game> FilteredGames = new List<Game>();
 
         public MainWindow()
         {
@@ -57,6 +57,10 @@ namespace OOD_Exam
 
             GameListBox.ItemsSource = AllGames;
         }
+     
+        private void CheckBox_Checked(object sender, RoutedEventArgs e)
+        {
 
+        }
     }
 }

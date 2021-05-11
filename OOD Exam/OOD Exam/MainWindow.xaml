@@ -20,6 +20,10 @@
         <ListBox ItemTemplate="{StaticResource listboxTemplate}" x:Name="GameListBox" HorizontalAlignment="Left" Height="278" Margin="69,66,0,0" VerticalAlignment="Top" Width="284" SelectionChanged="GameListBox_SelectionChanged"/>
         <TextBlock x:Name="GameTextBlock" HorizontalAlignment="Left" Margin="417,66,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="42" Width="244" FontSize="16"/>
         <Image x:Name="GameImage" HorizontalAlignment="Left" Height="195" Margin="417,149,0,0" VerticalAlignment="Top" Width="244"/>
+        <CheckBox Content="PC" Name="PC_CheckBox" HorizontalAlignment="Left" Margin="69,32,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked"/>
+        <CheckBox Content="PS" Name="PS_CheckBox" HorizontalAlignment="Left" Margin="157,32,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked"/>
+        <CheckBox Content="Xbox" Name="Xbox_CheckBox" HorizontalAlignment="Left" Margin="239,32,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked"/>
+        <CheckBox Content="Switch" Name="Switch_CheckBox" HorizontalAlignment="Left" Margin="322,32,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked"/>
 
     </Grid>
 </Window>
